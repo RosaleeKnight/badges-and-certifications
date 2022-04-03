@@ -9,4 +9,4 @@ Completed badges are located on my Google Developer profile: https://g.dev/Rosal
 - Use Google Apps Script in G Suits | learned how to make macros and app scripts for Google Sheets
 - First Learning Pathway and Quiz | completed a full pathway
 - Web Vitals | learn how to measure "First Input Delay", "Cumulative Layout Shift" and "Largest Content Paint"
-- Identity | learn how to improve a webiste's sign in and sign up experiences (identity forms)
+- Identity | learn how to improve a website's sign in and sign-up experiences (identity forms)
