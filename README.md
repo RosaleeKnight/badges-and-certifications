@@ -3,6 +3,7 @@ List of my studying and what I've completed.
 
 ----
 # Certified Courses
+Completed courses are from different issuers and have my credential id attached for verification of completion. I have digital copies of all certification. 
 | Course                                     | Issuer                  | Credential ID | Short Description                                               |
 | ------------------------------------------ | ----------------------- | ------------- | --------------------------------------------------------------- |
 | Science Literacy                           | University of Alberta   | UJMMDLRZ6HH4  | How to criticize and read data.                                 |
@@ -21,3 +22,8 @@ Completed badges are located on my Google Developer profile: https://g.dev/Rosal
 - First Learning Pathway and Quiz | completed a full pathway
 - Web Vitals | learn how to measure "First Input Delay", "Cumulative Layout Shift" and "Largest Content Paint"
 - Identity | learn how to improve a website's sign in and sign-up experiences (identity forms)
+
+----
+# Stats
+![GitHub last commit](https://img.shields.io/github/last-commit/RosaleeKnight/badges-and-certifications)
+[![HitCount](https://hits.dwyl.com/RosaleeKnight/badges-and-certifications.svg?style=flat)](http://hits.dwyl.com/RosaleeKnight/badges-and-certifications)
