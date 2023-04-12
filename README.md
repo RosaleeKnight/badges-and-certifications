@@ -34,5 +34,4 @@ Courses I've completed without certifications.
 
 ----
 # Stats
-![GitHub last commit](https://img.shields.io/github/last-commit/RosaleeKnight/badges-and-certifications)
 [![HitCount](https://hits.dwyl.com/RosaleeKnight/badges-and-certifications.svg?style=flat)](http://hits.dwyl.com/RosaleeKnight/badges-and-certifications)
