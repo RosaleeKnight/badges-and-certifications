@@ -26,11 +26,13 @@ Completed badges are located on my Google Developer profile: https://g.dev/Rosal
 ----
 # Not Certified Courses
 Courses I've completed without certifications.
-| Course                                  | Provider     | Short Description                                                |
-| --------------------------------------- | ------------ | ---------------------------------------------------------------- |
-| DevOps Engineering Course for Beginners | freeCodeCamp | Best practices, continuous integration, testing and automation.  |
-| DevSecOps Course for Beginners          | freeCodeCamp | How to integrate security throughout DevOps process.             |
-| Assembly Language Programming with Arm  | freeCodeCamp | How to use registers, logic shifts and conditional instructions. |
+| Course                                     | Provider     | Short Description                                                    |
+| ------------------------------------------ | ------------ | -------------------------------------------------------------------- |
+| Learn JavaScript Full Course for Beginners | freeCodeCamp | How to use variables, basic math, arrays, else if, loops and syntax. |
+| Learn React JS Full Course for Beginners   | freeCodeCamp | JSX, components, props and states.                                   |
+| DevOps Engineering Course for Beginners    | freeCodeCamp | Best practices, continuous integration, testing and automation.      |
+| DevSecOps Course for Beginners             | freeCodeCamp | How to integrate security throughout DevOps process.                 |
+| Assembly Language Programming with Arm     | freeCodeCamp | How to use registers, logic shifts and conditional instructions.     |
 
 ----
 # Stats
