@@ -33,7 +33,7 @@ Courses I've completed without certifications.
 | Learn React JS Full Course for Beginners         | freeCodeCamp            | JSX, components, props and states.                                   |
 | Learn JavaScript Full Course for Beginners       | freeCodeCamp            | How to use variables, basic math, arrays, else if, loops and syntax. |
 | Assembly Language Programming with Arm           | freeCodeCamp            | How to use registers, logic shifts and conditional instructions.     |
-| IT Skills Training for Beginners                 | Jobskillshare Community | Ticketing systems, visualization and active directory.               |
+| IT Skills Training for Beginners                 | Jobskillshare Community | Ticketing systems, virtualization and active directory.               |
 | Introduction to Programming and Computer Science | freeCodeCamp            | Variables, arrays, loops, functions, debugging and data structures.  |
 
 ----
