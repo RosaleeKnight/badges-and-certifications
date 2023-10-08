@@ -1,9 +1,8 @@
-# Badges and Certifications
-List of my studying and what I've completed in the ordered of most technical to the least intensive. 
+List of courses I've studied as well as any certificates and badges.  
 
 ----
-# Certified Courses
-Completed courses are from different issuers and have my credential id attached for verification of completion. I have digital copies of all certification. 
+### Misc Certified Courses
+Completed courses are from different issuers and have my credential id attached for verification of completion. I have digital copies of all certification.
 | Course                                     | Issuer                | Credential ID | Short Description                                                |
 | ------------------------------------------ | --------------------- | ------------- | ---------------------------------------------------------------- |
 | Introduction to Cloud Computing            | Simplilearn           | 3365628       | IaaS, PaaS, SaaS and differences between popular providers.      |
@@ -13,7 +12,7 @@ Completed courses are from different issuers and have my credential id attached 
 | Communication Strategies for a Virtual Age | University of Toronto | ASBQND34T5AB  | Best practices for emails, zoom, teams and communication boards. |
 
 ----
-# Google Developer Badges
+### Google Developer Badges
 Completed badges are located on my Google Developer profile: https://g.dev/RosaleeKnight
 - Identity | learn how to improve a website's sign in and sign-up experiences (identity forms)
 - Web Vitals | learn how to measure "First Input Delay", "Cumulative Layout Shift" and "Largest Content Paint"
@@ -24,17 +23,35 @@ Completed badges are located on my Google Developer profile: https://g.dev/Rosal
 - Created Google Developer Profile | created an account
 
 ----
-# Not Certified Courses
-Courses I've completed without certifications.
+### Computer Science Not Certified Courses
+General Science courses I've completed usually about programming languages.
+| Course                                           | Provider                | Short Description                                                    |
+| ------------------------------------------------ | ----------------------- | -------------------------------------------------------------------- |
+| Learn React JS Full Course for Beginners         | freeCodeCamp            | JSX, components, props and states.                                   |
+| Learn JavaScript Full Course for Beginners       | freeCodeCamp            | How to use variables, basic math, arrays, else if, loops and syntax. |
+| Assembly Language Programming with Arm           | freeCodeCamp            | How to use registers, logic shifts and conditional instructions.     |
+| Introduction to Programming and Computer Science | freeCodeCamp            | Variables, arrays, loops, functions, debugging and data structures.  |
+
+----
+### Cybersecurity Not Certified Courses
+General cybersecurity courses I've completed.
+| Course                                           | Provider                | Short Description                                                    |
+| ------------------------------------------------ | ----------------------- | -------------------------------------------------------------------- |
+
+----
+### DevOps Not Certified Courses
+General DevOps courses I've completed.
 | Course                                           | Provider                | Short Description                                                    |
 | ------------------------------------------------ | ----------------------- | -------------------------------------------------------------------- |
 | DevSecOps Course for Beginners                   | freeCodeCamp            | How to integrate security throughout DevOps process.                 |
 | DevOps Engineering Course for Beginners          | freeCodeCamp            | Best practices, continuous integration, testing and automation.      |
-| Learn React JS Full Course for Beginners         | freeCodeCamp            | JSX, components, props and states.                                   |
-| Learn JavaScript Full Course for Beginners       | freeCodeCamp            | How to use variables, basic math, arrays, else if, loops and syntax. |
-| Assembly Language Programming with Arm           | freeCodeCamp            | How to use registers, logic shifts and conditional instructions.     |
-| IT Skills Training for Beginners                 | Jobskillshare Community | Ticketing systems, virtualization and active directory.               |
-| Introduction to Programming and Computer Science | freeCodeCamp            | Variables, arrays, loops, functions, debugging and data structures.  |
+
+----
+### Information Technology Not Certified Courses
+General Information Technology courses I've completed.
+| Course                                           | Provider                | Short Description                                                    |
+| ------------------------------------------------ | ----------------------- | -------------------------------------------------------------------- |
+| IT Skills Training for Beginners                 | Jobskillshare Community | Ticketing systems, virtualization and active directory.              |
 
 ----
 # Stats
