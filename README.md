@@ -27,9 +27,11 @@ Completed badges are located on my Google Developer profile: https://g.dev/Rosal
 General Science courses I've completed usually about programming languages.
 | Course                                           | Provider                | Short Description                                                    |
 | ------------------------------------------------ | ----------------------- | -------------------------------------------------------------------- |
+| React Native Course                              | freeCodeCamp            | How to set up development enviroment as well as use components.      | 
 | Learn React JS Full Course for Beginners         | freeCodeCamp            | JSX, components, props and states.                                   |
 | Learn JavaScript Full Course for Beginners       | freeCodeCamp            | How to use variables, basic math, arrays, else if, loops and syntax. |
 | Assembly Language Programming with Arm           | freeCodeCamp            | How to use registers, logic shifts and conditional instructions.     |
+| Data Structures and Algorithms in JavaScript     | freeCodeCamp            | Data structures in JavaScript such as the binary search tree.        |
 | Introduction to Programming and Computer Science | freeCodeCamp            | Variables, arrays, loops, functions, debugging and data structures.  |
 
 ----
