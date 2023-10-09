@@ -50,6 +50,10 @@ General cybersecurity courses I've completed.
 General DevOps courses I've completed.
 | Course                                           | Provider                | Short Description                                                    |
 | ------------------------------------------------ | ----------------------- | -------------------------------------------------------------------- |
+| Terraform Course                                 | freeCodeCamp            | How to manange and automate cloud infrastructure.
+| Ansible Full Course                              | edureka                 | How to write a playbook.                                             |
+| Monitoring with Prometheus And Grafana           | edureka                 | Installation and how to read the metrics.                            |
+| Docker Containers and Kubernetes Fundamentals    | freeCodeCamp            | Containers, YAML deployments, and docker compose.                    |
 | DevSecOps Course for Beginners                   | freeCodeCamp            | How to integrate security throughout DevOps process.                 |
 | DevOps Engineering Course for Beginners          | freeCodeCamp            | Best practices, continuous integration, testing and automation.      |
 
@@ -61,5 +65,5 @@ General Information Technology courses I've completed.
 | IT Skills Training for Beginners                 | Jobskillshare Community | Ticketing systems, virtualization and active directory.              |
 
 ----
-# Stats
+### Stats
 [![HitCount](https://hits.dwyl.com/RosaleeKnight/badges-and-certifications.svg?style=flat)](http://hits.dwyl.com/RosaleeKnight/badges-and-certifications)
