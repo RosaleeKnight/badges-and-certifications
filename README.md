@@ -39,6 +39,11 @@ General Science courses I've completed usually about programming languages.
 General cybersecurity courses I've completed.
 | Course                                           | Provider                | Short Description                                                    |
 | ------------------------------------------------ | ----------------------- | -------------------------------------------------------------------- |
+| Splunk Training for Beginners                    | Intellipaat             | How to search gathered data and make reports.                        |
+| Penetration Testing: Gophish Tutorial            | freeCodeCamp            | How to set up testing server, website and email.                     |
+| Ethical Hacking 101: Web App Penetration Testing | freeCodeCamp            | How to use Burpsuit, Zap and Metasploit.                             |
+| Linux Essentials for Ethical Hackers             | freeCodeCamp            | Networks, how to use curl and clear logs.                            |
+
 
 ----
 ### DevOps Not Certified Courses
