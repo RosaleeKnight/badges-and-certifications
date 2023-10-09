@@ -63,7 +63,7 @@ General Information Technology courses I've completed.
 | Course                                           | Provider                | Short Description                                                    |
 | ------------------------------------------------ | ----------------------- | -------------------------------------------------------------------- |
 | IT Skills Training for Beginners                 | Jobskillshare Community | Ticketing systems, virtualization and active directory.              |
-
+| Computer & Technology Basics Course              | freeCodeCamp            | Computer assembly, cleaning and basic security.                      | 
 ----
 ### Stats
 [![HitCount](https://hits.dwyl.com/RosaleeKnight/badges-and-certifications.svg?style=flat)](http://hits.dwyl.com/RosaleeKnight/badges-and-certifications)
