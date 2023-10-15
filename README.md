@@ -1,4 +1,4 @@
-List of courses I've studied as well as any certificates and badges.  
+List of courses I've studied as well as any certificates and badges. Most do not have certificates as I'm mostly concerned with the knowledge not the paper.  
 
 ----
 ### Misc Certified Courses
@@ -60,10 +60,14 @@ General DevOps courses I've completed.
 ----
 ### Information Technology Not Certified Courses
 General Information Technology courses I've completed.
-| Course                                           | Provider                | Short Description                                                    |
-| ------------------------------------------------ | ----------------------- | -------------------------------------------------------------------- |
-| IT Skills Training for Beginners                 | Jobskillshare Community | Ticketing systems, virtualization and active directory.              |
-| Computer & Technology Basics Course              | freeCodeCamp            | Computer assembly, cleaning and basic security.                      | 
+| Course                                           | Provider                | Short Description                                                        |
+| ------------------------------------------------ | ----------------------- | ------------------------------------------------------------------------ |
+| CompTIA N10-008 Network+ Training Course         | Professor Messer        | Topology, cables, subnets, cloud, wireless, security, troubleshooting.   |
+| CompTIA 220-1102 A+ Training Course              | Professor Messer        | Operating systems, security, ticketing systems, scripting.               |
+| CompTIA 220-1101 A+ Training Course              | Professor Messer        | Laptops, mobile devices, networks, computer components, troubleshooting. |
+| CompTIA: ITF+ Training                           | ITProTV                 | Operating systems, hardware, networking and security.                    |
+| IT Skills Training for Beginners                 | Jobskillshare Community | Ticketing systems, virtualization and active directory.                  |
+| Computer & Technology Basics Course              | freeCodeCamp            | Computer assembly, cleaning and basic security.                          | 
 ----
 ### Stats
 [![HitCount](https://hits.dwyl.com/RosaleeKnight/badges-and-certifications.svg?style=flat)](http://hits.dwyl.com/RosaleeKnight/badges-and-certifications)
