@@ -1,6 +1,13 @@
 List of courses I've studied as well as any certificates and badges. Most do not have certificates as I'm mostly concerned with the knowledge not the paper.  
 
 ----
+### Cybersecurity Certified Courses
+Completed courses are from different issuers and have my credential id attached for verification of completion. I have digital copies of all certification.
+| Course                                     | Issuer                | Credential ID | Short Description                                                |
+| ------------------------------------------ | --------------------- | ------------- | ---------------------------------------------------------------- |
+| Introduction to Dark Web Operations        | Security Blue Team    | 596124216     | Clear vs deep vs darkweb, and how the darkweb is used.           |
+
+----
 ### Misc Certified Courses
 Completed courses are from different issuers and have my credential id attached for verification of completion. I have digital copies of all certification.
 | Course                                     | Issuer                | Credential ID | Short Description                                                |
