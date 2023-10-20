@@ -3,10 +3,11 @@ List of courses I've studied as well as any certificates and badges. Most do not
 ----
 ### Cybersecurity Certified Courses
 Completed courses are from different issuers and have my credential id attached for verification of completion. I have digital copies of all certification.
-| Course                                     | Issuer                | Credential ID | Short Description                                                |
-| ------------------------------------------ | --------------------- | ------------- | ---------------------------------------------------------------- |
-| Introduction to OSINT                      | Security Blue Team    | 393836001     | What OSINT is and common tools.                                  |
-| Introduction to Dark Web Operations        | Security Blue Team    | 596124216     | Clear vs deep vs darkweb, and how the darkweb is used.           |
+| Course                                     | Issuer                | Credential ID | Short Description                                                                  |
+| --------------------------------------- | --------------------- | ------------- | ------------------------------------------------------------------------------------- |
+| Introduction to Digital Forensics       | Security Blue Team    | 777221740     | Evidence types, the Chain of Custody, steganography and passworded ZIP file cracking. |
+| Introduction to OSINT                   | Security Blue Team    | 393836001     | What OSINT is and common tools.                                                       |
+| Introduction to Dark Web Operations     | Security Blue Team    | 596124216     | Clear vs deep vs darkweb, and how the darkweb is used.                                |
 
 ----
 ### Misc Certified Courses
