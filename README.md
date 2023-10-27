@@ -9,6 +9,7 @@ Completed courses are from different issuers and have my credential id attached 
 | Introduction to OSINT                   | Security Blue Team    | 393836001      | What OSINT is and common tools.                                                       |
 | Introduction to Dark Web Operations     | Security Blue Team    | 596124216      | Clear vs deep vs darkweb, and how the darkweb is used.                                |
 | Mental Health in Cybersecurity          | Security Blue Team    | 228875910      | Impostor Syndrome, Professional Burnout, Stress and Depression and Alert Fatigue.     |
+| Introduction to Cyber Security          | Try Hack Me           | THM-CFJLOYDIVW | Weba Application, Network and OS Security plus digital forensics.                     |
 | Pre Security                            | Try Hack Me           | THM-YAXIWHQCS7 | Neworking, Linux and Windows Fundamentals.                                            |
 | Advent of Cyber 2022                    | Try Hack Me           | THM-QRAGZFTLIS | Advent of Cyber 2022 challenges which contain red, blue, blockchain and IoT.          |
 | Advent of Cyber 2021                    | Try Hack Me           | THM-2P2WFQSIYX | Advent of Cyber 2021 challenges which contain both red and blue.                      |
