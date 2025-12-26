@@ -5,7 +5,8 @@ List of courses I've studied as well as any certificates and badges. Most do not
 Completed courses are from different issuers and have my credential id attached for verification of completion. I have digital copies of all certification.
 | Course                                  | Issuer                | Credential ID  | Short Description                                                                     |
 | --------------------------------------- | --------------------- | -------------- | ------------------------------------------------------------------------------------- |
-| Advent of Cyber 2024                    | Try Hack Me           | THM-WMTQGLP3IE | Advent of Cyber 2021 challenges which contain both red, blue and purple team tasks.   |
+| Advent of Cyber 2025                    | Try Hack Me           | THM-RHGQJU6LI2 | Advent of Cyber 2025 challenges which contain both red and blue team tasks.           |
+| Advent of Cyber 2024                    | Try Hack Me           | THM-WMTQGLP3IE | Advent of Cyber 2024 challenges which contain both red, blue and purple team tasks.   |
 | Advent of Cyber 2023                    | Try Hack Me           | THM-AJM1I4HEEC | Advent of Cyber 2023 challenges which contains red, blue, purple and development.     |
 | Introduction to Digital Forensics       | Security Blue Team    | 777221740      | Evidence types, the Chain of Custody, steganography and passworded ZIP file cracking. |
 | Introduction to OSINT                   | Security Blue Team    | 393836001      | What OSINT is and common tools.                                                       |
